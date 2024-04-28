@@ -1,7 +1,7 @@
 this is spring boot backend assigment for Traini8.
 I used mysql for database.
 Using this application you can add and get all list of centers.
-
+Create Traini8 database in ur mysql workbench
 For add new training center 
 use "localhost:8080/add" url on postman
 use following variables
